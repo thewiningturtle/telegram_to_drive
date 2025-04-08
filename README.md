@@ -1,2 +1,5 @@
-# telegram_to_drive
-This will help to put telegram file to share drive
+streamlit
+telethon
+google-api-python-client
+google-auth
+google-auth-oauthlib
